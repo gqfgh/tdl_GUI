@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace tdl_GUI.Properties {
+namespace tdl界面.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

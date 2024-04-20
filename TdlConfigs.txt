@@ -1,0 +1,1 @@
+--skip-same --dir S:/rather/vid --reconnect-timeout 0 --proxy socks5://127.0.0.1:7888 --template "{{ replace .FileName `/` `_` `\\` `_` `:` `_` `*` `_` `?` `_` `<` `_` `>` `_` `|` `_` ` ` `_`  }}"

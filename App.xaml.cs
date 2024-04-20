@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace tdl_GUI
+namespace tdl界面
 {
     /// <summary>
     /// Interaction logic for App.xaml
